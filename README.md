@@ -1,19 +1,22 @@
 # Doc_Backend
 Ctrl + c = parar terminal
+---
+
+
 Criando um arquivo para back end
 
 - npm init
-  Então começa a pedir as informações dos projetos
-  Nome da pasta
-  versão
-  Descrição            
-  entry point
-  test command
-  git reposytory
-  keywords
-  autor
-  licença
-  E dps pede pra confirmar
+-  Então começa a pedir as informações dos projetos
+-  Nome da pasta
+-  versão
+-  descrição            
+- entry point
+-  test command
+- git reposytory
+- keywords
+- autor
+- licença
+- E dps pede pra confirmar
 
   instalar express
   npm i --save express
